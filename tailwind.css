@@ -1,0 +1,7 @@
+/* tailwind */
+@import "tailwindcss";
+
+/* for font family */
+@theme {
+  --font-poppins: Poppins, sans-serif;
+}
